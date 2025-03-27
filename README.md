@@ -26,14 +26,6 @@ This project applies machine learning techniques to predict flight delays based 
 
 ---
 
-## 📷 Visuals (Coming Soon)
-
-- Confusion Matrix  
-- Feature Importance Plot  
-- Delay Distribution by Airline & Time
-
----
-
 ## 🔗 Links
 
 - 📄 [Portfolio Website](https://www.datascienceportfol.io/lk05197n)  
@@ -41,12 +33,6 @@ This project applies machine learning techniques to predict flight delays based 
 
 ---
 
-## 🧠 Key Takeaways
 
-- Demonstrated strong understanding of the full ML pipeline: from cleaning to deployment.
-- Optimized model performance with tuning and preprocessing.
-- Visualized impactful delay factors to support real-world decision-making.
-
----
 
 > 💡 *This project showcases my ability to work with large datasets, deploy scalable workflows, and derive actionable insights through data science.*
