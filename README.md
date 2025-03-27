@@ -23,6 +23,7 @@ This project applies machine learning techniques to predict flight delays based 
 
 ---
 ## 📂 Folder Structure
+
 ---
 
 ## 📷 Visuals (Coming Soon)
